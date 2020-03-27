@@ -9,7 +9,7 @@ int main(){
     printf("O valor de b e: %d\n", b);
 
     a = a*b;
-
+    
     printf("O valor de a * b e: %d \n", a);
 
 }
