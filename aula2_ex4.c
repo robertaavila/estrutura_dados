@@ -1,6 +1,8 @@
 #include <limits.h>
 #include <stdio.h>
 
+//exemplo 4
+
 int main() {
     printf("Inteiro minimo: %d maximo: %d\n", INT_MIN, INT_MAX);
     printf("Inteiro sem sinal maximo: %u\n", UINT_MAX);

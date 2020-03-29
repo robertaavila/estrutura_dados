@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+//exemplo 12
+
 int main() {
     typedef struct Aluno_ {
         int matricula;
